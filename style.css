@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@100..700&family=Xanh+Mono:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@0,100..900;1,100..900&family=Fragment+Mono:ital@0;1&family=Share+Tech+Mono&family=Sometype+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@0,100..900;1,100..900&family=Sometype+Mono:ital,wght@0,400. .700;1.400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=Wellfleet&display=swap');
+
+*{
+    margin:10px;
+    padding:10px;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    background-color: beige;
+    color: black;
+    border-radius: 10px;
+}
+img{
+    border-radius: 10px;
+}
+.itens{
+    padding: 10px;
+    background-color: aqua;
+    border-radius:0cap;
+    text-decoration: none;
+  
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+li{
+    padding: 5px;
+    font-family: "M PLUS 1 Code, Variable, monospace";
+}
+legend{
+    padding: 20px;
+}
+.itens:hover{
+    background-color: white;
+    color: red;
+}
+fieldset{
+    padding: 20px;
+}
+.temporadas{
+    list-style: none;
+}
+.livin{
+    list-style: none;
+}
+h1{
+    font-family: "Wellfleet Static, monospace";
+}
+h2{
+    font-family: "Wellfleet Static, monospace";
+}
